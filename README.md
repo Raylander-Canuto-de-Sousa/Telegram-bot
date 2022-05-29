@@ -1,3 +1,3 @@
 # Estudos
-Alguns codigos de estudo no senac
+Desvendando minha curiosidade por bots
 
